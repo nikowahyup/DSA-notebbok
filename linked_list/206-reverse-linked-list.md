@@ -78,7 +78,6 @@ Multiple Nodes: Semua node diproses satu kali dan urutan referensinya berhasil d
 
 
 ## 9. Lessons Learned
-
 Pointer Manipulation: Memahami cara membalik arah referensi next tanpa membuat linked list baru.
 
 Three-Pointer Technique: Memahami peran previous, current, dan next_node dalam proses pembalikan.
